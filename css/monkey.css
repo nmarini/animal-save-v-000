@@ -12,7 +12,7 @@ html {
 
 @media only for screen and (min-width: 406px) and (max-width: 1170px) {
   #monkey {
-    margin-top: -550px
+    top: 10px;
   }
 
 }
